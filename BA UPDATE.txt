@@ -1,0 +1,27 @@
+WL foods update manual, sent to client
+Megasupply acknowledgement
+Business documents to freepoint - tbd internal client as per ronnel
+HRIS high level timeline
+task plan hexagon (on going)
+
+PRIORITY TASKS for Tomorrow 03/16
+1. Hexagon Work Plan - on going (Erwin)
+2. BA Intern Tasks to be encoded in Odoo
+3. Add BA intern in Odoo (c/o gen)
+4. HRIS Timeline - done
+5. ERP Status Report (c/o BAs) - UI/UX 20% c/o regin , backend 70% c/o cy
+6. HRIS Status Report (c/o BAs) - 25%
+11. Network diagram using cloud via vpn (c/o BAs) - on going ( nikka )
+
+
+1st half april qa testing
+breakdown highlevel diagram
+per module
+
+
+overall status - per module - done
+
+Ibon docs - on-going
+
+Dataflow diagram ng ERP - nikka
+Dataflow diagram HRIS - nikka

@@ -1,0 +1,52 @@
+Slash On-going Projects
+
+1. HRIS and Payroll System w/ Talent Acquisition
+> development phase 40%
+> User Manual - sync meeting
+> DFD - sync meeting
+> PresMat - done (for checking of improvements)
+> BRD and SOW (to do)
+
+2. ERP w/ Warehouse Mgmt. (SSI & Freepoint)
+> Requirement Gathering - on - goinG
+> development 10%
+> User Manual - done (for checking of improvements)
+> DFD - for review
+> PresMat - done (for checking of improvements)
+> BRD and SOW - done ( for approval )
+
+3. Asset Tagging and Monitoring
+> development 90%
+> UI Enhancement - sync meeting
+> User Manual - sync meeting
+> DFD - sync meeting
+> PresMat - sync meeting
+
+4. E-Commerce
+> Ongoing UI/UX development 20%
+> BRD and SOW
+> DFD
+> Presmat
+
+5. Civic - Commodities Monitoring
+> BRD and SOW (provided)
+> waiting for the project kick-off
+> UI/UX - need to confirm with regin if 100% done 
+
+6. Queueing System - Micro Image
+> BRD (provided)
+> SOW
+> Presmat
+> UI/UX - done
+> waiting for the project kick-off
+
+7. i-Brgy
+> BRD (provided)
+> SOW 
+> Presmat
+> DFD
+> UI/UX - need to confirm with regin if 100% done
+> waiting for the project kick-off
+
+
+
